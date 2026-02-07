@@ -22,4 +22,8 @@ The program follows a modular and efficient approach by implementing each linked
 
 Overall, this task provided practical knowledge of implementing a singly linked list in C programming. It strengthened the understanding of pointers, dynamic memory allocation, and data structure operations. The program successfully demonstrates a modular and efficient linked list implementation and serves as a foundation for advanced data structure applications.
 
+## OUTPUT
+<img width="1654" height="171" alt="Image" src="https://github.com/user-attachments/assets/9fec6c9b-aa7d-4b69-a677-077347ff0bd5" />
+<img width="1685" height="183" alt="Image" src="https://github.com/user-attachments/assets/65d81020-dd45-46a5-93c8-546af07a91c5" />
+
 
